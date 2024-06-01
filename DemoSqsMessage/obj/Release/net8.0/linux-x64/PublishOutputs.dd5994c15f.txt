@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\DemoSqsMessage.deps.json
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\DemoSqsMessage.runtimeconfig.json
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\DemoSqsMessage.pdb
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\AWSSDK.SQS.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-Lambda\DemoSqsMessage\bin\Release\net8.0\publish\DemoSqsMessage.dll
