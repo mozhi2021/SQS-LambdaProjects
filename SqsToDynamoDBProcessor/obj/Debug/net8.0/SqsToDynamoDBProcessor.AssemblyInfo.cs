@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqsToDynamoDBProcessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc4e89e783f8098a92cd9498e33e39026d45bce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqsToDynamoDBProcessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqsToDynamoDBProcessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
