@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\SqsToDynamoDB.deps.json
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\SqsToDynamoDB.runtimeconfig.json
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\SqsToDynamoDB.pdb
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\AWSSDK.SQS.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDB\bin\Release\net8.0\publish\SqsToDynamoDB.dll

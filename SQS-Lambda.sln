@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoSqsMessage", "DemoSqsMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3ToSQSProcessor", "S3ToSQSProcessor\S3ToSQSProcessor.csproj", "{06944723-FBF7-4B4F-B771-782BEFA600A7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqsToDynamoDBProcessor", "SqsToDynamoDBProcessor\SqsToDynamoDBProcessor.csproj", "{34D14948-B8D2-4B8A-B051-C79AB9C3FFE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqsToDynamoDB", "SqsToDynamoDB\SqsToDynamoDB.csproj", "{73D95EC1-2BF3-4DBC-A12C-8C26B1EC70DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{06944723-FBF7-4B4F-B771-782BEFA600A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06944723-FBF7-4B4F-B771-782BEFA600A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06944723-FBF7-4B4F-B771-782BEFA600A7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{34D14948-B8D2-4B8A-B051-C79AB9C3FFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{34D14948-B8D2-4B8A-B051-C79AB9C3FFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{34D14948-B8D2-4B8A-B051-C79AB9C3FFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{34D14948-B8D2-4B8A-B051-C79AB9C3FFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D95EC1-2BF3-4DBC-A12C-8C26B1EC70DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D95EC1-2BF3-4DBC-A12C-8C26B1EC70DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D95EC1-2BF3-4DBC-A12C-8C26B1EC70DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D95EC1-2BF3-4DBC-A12C-8C26B1EC70DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

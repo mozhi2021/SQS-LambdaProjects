@@ -1,5 +1,0 @@
-is_global = true
-build_property.RootNamespace = SqsToDynamoDBProcessor
-build_property.ProjectDir = C:\Users\User\Desktop\MyGDrive\MyGitHub\SQS-LambdaProjects\SqsToDynamoDBProcessor\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
